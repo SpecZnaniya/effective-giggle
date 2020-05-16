@@ -5,3 +5,5 @@ url: https://specznaniya.github.io
 permalink: pretty
 highlighter: rouge
 markdown: kramdown
+
+theme: jekyll-theme-dinky
